@@ -1,0 +1,14 @@
+{
+  "name": "danyubdb",
+  "version": "1.0.0",
+  "description": "A opinionated library to provide type-safe interfaces for dealing with AWS DynamoDB. Developed and maintained for Dupper Analytics. Released as open source.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
